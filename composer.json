@@ -2,7 +2,7 @@
     "name": "onestartup/calculator",
     "description": "making a first package",
     "type": "library",
-    "license": "Apache 2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Angel MAS",
