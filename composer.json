@@ -9,6 +9,6 @@
             "email": "angelmartin.isc@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {}
 }
