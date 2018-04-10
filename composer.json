@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-     "autoload": {
+    "autoload": {
         "psr-4": {"Onestartup\\Calculator\\": "src"}
-    },
+    }
 }
